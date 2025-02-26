@@ -1,6 +1,7 @@
 
 
-<img src="https://github.com/user-attachments/assets/329cd5f4-de15-43a4-b5b2-12a9c329f27d" alt="Welcome to My Profile" width="100%">
+
+<img src="https://github.com/user-attachments/assets/31550733-ec3f-412b-81f4-f4992ed8ebda" alt="Welcome to My Profile" width="100%">
 <img src="https://github.com/user-attachments/assets/980f394b-574f-42b1-8884-fde7b7bdc2b4" alt="Welcome to My Profile" width="100%">
 
 
